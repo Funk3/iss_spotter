@@ -91,5 +91,5 @@ module.exports = {
   fetchMyIP, 
   fetchCoordsByIP,
   fetchISSFlyOverTimes,
-  nextISSTimesForMyLocation
+  nextISSTimesForMyLocation,
 };
